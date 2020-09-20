@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+.center {
+  margin: auto;
+}
+
+.paragraph {
+  margin: 0;
+  position: relative;
+  top: 50%;
+  left: 16.8%;
+}
