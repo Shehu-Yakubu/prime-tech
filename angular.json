@@ -126,6 +126,10 @@
               "devServerTarget": "prime-tech:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
     }

@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "prime-tech-65012"
+  },
+  "targets": {
+    "prime-tech-65012": {
+      "hosting": {
+        "prime-tech": [
+          "prime-tech-65012"
+        ]
+      }
+    }
   }
 }
